@@ -1,5 +1,7 @@
+# vue项目小米商城
+
 # mall
-"# vue项目小米商城" 
+
 ## Project setup
 ```
 yarn install
